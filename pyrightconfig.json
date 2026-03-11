@@ -1,5 +1,6 @@
 {
     "reportUnknownVariableType": "none",
     "reportUnknownMemberType": "none",
+    "reportUnusedCallResult": "none",
     "reportUnknownArgumentType": "none"
 }
